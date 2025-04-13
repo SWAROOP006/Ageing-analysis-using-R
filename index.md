@@ -25,7 +25,6 @@ Welcome to my B.Tech thesis project! This research focuses on identifying telome
 
 - 📄 [B.Tech Thesis (PDF)](B.Tech%20Thesis.pdf) – Full thesis report
 - 📜 [R Script](R code for using sequinr for telomere analysis.R) – Code used to detect repeat positions
-- 📊 `telomeric_repeat_counts.csv` – Output from the script (optional)
 
 ## 📈 Sample Output Plot
 
