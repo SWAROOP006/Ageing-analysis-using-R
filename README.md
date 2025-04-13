@@ -29,7 +29,4 @@ Bioinformatics research on ageing hypothesis based on the chromosomal sequences 
 
 ---
 
-🧑‍🎓 **Author**: Jyothi Swaroop C  
-🎓 **Degree**: B.Tech in Bioinformatics  
-🏫 **Institution**: Tamil Nadu Agricultural University
-
+🧑‍🎓 **Author**: Jyothi Swaroop C
