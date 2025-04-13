@@ -28,9 +28,9 @@ Welcome to my B.Tech thesis project! This research focuses on identifying telome
 
 ## 📈 Sample Output Plot
 
-*(Upload a plot image and rename it to `plot.png`, then uncomment below)*
+ ![Histogram of Repeat Counts](plot.png)
 
-<!-- ![Histogram of Repeat Counts](plot.png) -->
+
 
 ## 👨‍🎓 Author
 
